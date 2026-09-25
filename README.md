@@ -62,7 +62,7 @@
 | [Lab management — microservices](https://github.com/HadilBenRhouma/lab-management-microservices) | Research-lab back end: publication and tool services behind a gateway, with Eureka discovery and a config server | Spring Boot · Spring Cloud · Eureka |
 | [Online clothing store](https://github.com/HadilBenRhouma/clothing-store-aspnet) | E-commerce platform with catalogue, cart and order management | ASP.NET MVC · C# · SQL Server |
 | [Smart greenhouse on blockchain](https://github.com/HadilBenRhouma/smart-greenhouse-blockchain) | Greenhouse sensor data anchored in a blockchain so readings can't be tampered with | PHP · Solidity · IoT |
-| [Music genre classification](https://github.com/HadilBenRhouma/Music-Genre-Classification) | Predicting a track's genre from its MFCC features with K-NN — 64.8 % accuracy on GTZAN | Python · NumPy · Colab |
+| [Music genre classification](https://github.com/HadilBenRhouma/music-genre-classification) | Predicting a track's genre from its MFCC features with K-NN — 64.8 % accuracy on GTZAN | Python · NumPy · Colab |
 
 ### 🤝 Let's talk
 
